@@ -1,0 +1,8 @@
+{
+  "name": "Another_Desert_Theme",
+  "version_number": "0.0.1",
+  "website_url": "https://www.patreon.com/CazBrecker",
+  "description": "Another desert map theme made for the Map Texture Replace Mod",
+  "dependencies": [
+	"Cgameworld-Map_Texture_Replacer-2.0.0"]
+}
