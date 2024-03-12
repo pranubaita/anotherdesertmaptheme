@@ -1,7 +1,7 @@
 
 # Another Desert Map Theme
 
-![Preview Image]()
+![Preview Image](https://github.com/pranubaita/anotherdesertmaptheme/blob/main/prev.png?raw=true)
 
 Texture pack made by myself for the Map Texture Replacer mod.
 All textures are 2K in resolution. This should help in performance if you are having any Issues regarding performance.
